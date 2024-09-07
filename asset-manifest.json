@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/KidsStory/static/css/main.6067d249.css",
+    "main.js": "/KidsStory/static/js/main.1703c116.js",
+    "static/media/img4.webp": "/KidsStory/static/media/img4.3af110dde590d59fe13b.webp",
+    "static/media/img2.webp": "/KidsStory/static/media/img2.f3e96da04fe909c122b1.webp",
+    "static/media/img5.webp": "/KidsStory/static/media/img5.78c15b5a3c2485c0d875.webp",
+    "static/media/img3.webp": "/KidsStory/static/media/img3.cce0b601eee41dfdb98a.webp",
+    "static/media/game2.png": "/KidsStory/static/media/game2.a0d3a91effd15138421e.png",
+    "static/media/game4.png": "/KidsStory/static/media/game4.09dd735f9e1522f27366.png",
+    "static/media/game6.png": "/KidsStory/static/media/game6.783e7256cb1ba201f30b.png",
+    "static/media/game5.png": "/KidsStory/static/media/game5.5ea124d62b333d1ac59c.png",
+    "static/media/game7.png": "/KidsStory/static/media/game7.df147125134ad58e10b5.png",
+    "static/media/face.png": "/KidsStory/static/media/face.0e3506b9d51c6783c1b2.png",
+    "static/media/game3.png": "/KidsStory/static/media/game3.004a7394966de80e7022.png",
+    "static/media/game1.png": "/KidsStory/static/media/game1.1a94ad4c2d9116417fa4.png",
+    "static/media/storyimg.png": "/KidsStory/static/media/storyimg.4ce99cdc14778fbf1337.png",
+    "static/media/img6.webp": "/KidsStory/static/media/img6.81a1c3133fbe5fb56401.webp",
+    "static/media/jocks.jpg": "/KidsStory/static/media/jocks.312058f05a9b7e844c78.jpg",
+    "static/media/elephantlogo.png": "/KidsStory/static/media/elephantlogo.eb4df6569e8b9cc955e2.png",
+    "static/media/slick.svg": "/KidsStory/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/KidsStory/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/KidsStory/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/KidsStory/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/KidsStory/index.html",
+    "main.6067d249.css.map": "/KidsStory/static/css/main.6067d249.css.map",
+    "main.1703c116.js.map": "/KidsStory/static/js/main.1703c116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6067d249.css",
+    "static/js/main.1703c116.js"
+  ]
+}
